@@ -1,0 +1,18 @@
+- Шапка
+Короткое описание (Summary)
+Проект (Project)	
+Компонент приложения (Component)
+Номер версии (Version)
+Серьезность (Severity: S1 Blocker, S2 Critical, S3 Major, S4 Minor, S5 Trivial)	
+Приоритет (Priority: P1 High, P2 Medium, P3 Low)
+Статус (Status)
+Автор (Author)
+Назначен на (Assigned To)
+- Окружение
+ОС / Сервис Пак и т.д. / Браузера + версия / 
+- Описание
+Шаги воспроизведения (Steps to Reproduce)	
+Фактический Результат (Result)
+Ожидаемый результат (Expected Result)
+- Дополнения
+Прикрепленный файл (Attachment)
